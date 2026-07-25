@@ -1,0 +1,343 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5949
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 160.672 0 Td (Project Development Phase) Tj T* -160.672 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 762.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 118.422 0 Td (Code-Layout, Readability and Reusability) Tj T* -118.422 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 752.2047 cm
+Q
+q
+1 0 0 1 63.77953 664.2047 cm
+q
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 73.5 Tm (Date) Tj T* ET
+BT 1 0 0 1 133.5591 73.5 Tm (11 July 2026) Tj T* ET
+BT 1 0 0 1 6 51.5 Tm (Team ID) Tj T* ET
+BT 1 0 0 1 133.5591 51.5 Tm (SWTID-2026-9508) Tj T* ET
+BT 1 0 0 1 6 29.5 Tm (Project Name) Tj T* ET
+BT 1 0 0 1 133.5591 29.5 Tm (Credit Card Approval Prediction System) Tj T* ET
+BT 1 0 0 1 6 7.5 Tm (Maximum Marks) Tj T* ET
+BT 1 0 0 1 133.5591 7.5 Tm (4 Marks) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 88 m 467.7165 88 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 88 l S
+n 467.7165 0 m 467.7165 88 l S
+n 0 66 m 467.7165 66 l S
+n 0 44 m 467.7165 44 l S
+n 0 22 m 467.7165 22 l S
+n 127.5591 0 m 127.5591 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 652.2047 cm
+Q
+q
+1 0 0 1 51.35433 625.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Project Folder Structure:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 593.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (The codebase is organized so that each concern - data, model training, and the web application - is kept in its own) Tj T* (clearly named folder, matching standard ML project layout.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 314.2047 cm
+q
+BT 1 0 0 1 0 264.7 Tm 13 TL /F3 8.3 Tf 0 0 0 rg (Project) Tj ( ) Tj (Development) Tj ( ) Tj (Phase/) Tj  T* ( ) Tj ( ) Tj (Dataset/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (credit_card_approval_dataset.csv) Tj  T* ( ) Tj ( ) Tj (Notebooks/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (EDA_and_Model_Training.ipynb) Tj  T* ( ) Tj ( ) Tj (Model/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (model.pkl) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (encoders.pkl) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (scaler.pkl) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (feature_columns.pkl) Tj  T* ( ) Tj ( ) Tj (Flask/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (app.py) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (templates/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (base.html) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (index.html) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (result.html) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (404.html) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (static/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (style.css) Tj  T* ( ) Tj ( ) Tj (Assets/) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (\(EDA) Tj ( ) Tj (and) Tj ( ) Tj (evaluation) Tj ( ) Tj (charts) Tj ( ) Tj (exported) Tj ( ) Tj (from) Tj ( ) Tj (the) Tj ( ) Tj (notebook\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 294.2047 cm
+Q
+q
+1 0 0 1 51.35433 267.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Code Layout Principles Followed:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 235.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 235.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Separation of concerns:) Tj /F1 9.5 Tf ( data lives in Dataset/, exploratory analysis and model training logic lives in the notebook,) Tj T* (trained artifacts live in Model/, and the web application lives in Flask/ - none of these mix responsibilities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 203.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 203.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (PEP8 style:) Tj /F1 9.5 Tf ( consistent 4-space indentation, snake_case function and variable names, and descriptive naming) Tj T* (throughout app.py and the notebook \(e.g. build_feature_vector, CATEGORY_OPTIONS\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 171.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 171.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Docstrings and comments:) Tj /F1 9.5 Tf ( app.py opens with a module-level docstring explaining its purpose, and every function) Tj T* (\(build_feature_vector, index, predict\) has a docstring describing what it does.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 139.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 139.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Logging over print statements:) Tj /F1 9.5 Tf ( app.py uses Python's logging module to record model loading, successful) Tj T* (predictions, and errors - suitable for real deployment, not just local debugging.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 107.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 107.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Exception handling:) Tj /F1 9.5 Tf ( the /predict route wraps model inference in try/except blocks, distinguishing between) Tj T* (validation errors \(bad input\) and unexpected errors, so the app never crashes on bad input.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 80.20472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Reusability:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 48.20472 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 48.20472 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (build_feature_vector\(\) is a single reusable function) Tj /F1 9.5 Tf ( that any route \(or future API endpoint\) can call to turn raw) Tj T* (form input into a model-ready feature vector - the encoding/scaling logic is not duplicated anywhere.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+195.3386 733.7382 93.865 13.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 197.3386 736.7382 Tm
+(10 July 2026) Tj
+T*
+ET
+1 1 1 rg
+n
+195.3386 711.7382 119.192 13.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 197.3386 714.7382 Tm
+(SWTID\0552026\0556119) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1190
+>>
+stream
+GauHJD/\/e&H88.E?Caf<[GN!lh5&YOs*3AXGL+sJ,t;":)4L8<(Y5ms*a>afhkriF8$h3+IM6[meAp=Q9\-Y,^a/0n9YMGXqF:FOQMWuUFE!WiA*RnFI%$3ZQu!`VNV>1BCfdV:Zligm!I@DE657c@'<u11Q:LYQ7uDdoD(DB&!6e/_XIA&k!uM#lDobMr&U:OSn,^h?<rO6Cuhh0$A0:]Ta"r=b(]JJrZPf#9iGiO+Le3N;:euCiK^B-P'@['in&;+##MUkW.*5`^ku^)CKI7Q^e(6IniCI97V&=K<"_LlrTa[5P7pY2DFdX@$Gg2RKd>?Rnc];&HRi&a)]LQJmdPdA4F#>r6<.gp26(k2f9%([431:o`o9l7h3:q/$cpuG*DB+)3TWA(55G?IpI@dqci,Ssan0[QHWIj)27`KX;H#+Q3KFXgL[^Y1*lJmp<M3>u&FSEg\/;<#_l3($?CZX(i!Y31Ct-&XI3i];-9&r>%6SN").D).8S8g\=p@;sj.=(e<JF:8nW5#$UOBW0/(8_]<aZ(KZt)$JcV-r0mma]->-\fD\Tg8_!ET%tI[lZ^^SR9HhVS4C]_sq*^3t2I&:!s.k47s:c1:/ro'IOn?2EY+aN[SZ.&&_.M+>il+,KKb#*X8IcY=!S>KkJm8s6cNTd8>-`#*>fL,-ht3B+ATY(X-@cmg9cl-M;gOt"\,2?\t(ClHO3U_#F'ELP?RF!qNrcua9T"7R-N0h`ER#-]=k`deQe:h4%3[.:h9:9ZOB^-jsQXF0Ioqmbj0fS7K*Wi78]f%+)-)!fps8I0)OeW$[?AacA<TZ)HPdStPEZ0)VPr<fsO9M,786<TOeb5T2L$^J">'V.@'0@!?:/KVY0Qoura%d$8iPuqb'=X?3n6RT"1(.',mb6c):SZlY?Q5n2fYPZ0Jr`OtNPnAoPEjWiDP!sP_[<fanOK9iJ_UB&Y<SS7\SA!!30`,<'3"G&!2#%j/PUesuq3<[qgcle6#lC!W/TlQmRKCe85#Hf,<JWr!_O6;)_?pTU";J-IK0kYId'pt(8gGfb=Z='3-mZ?Q`[Hl,BftQ\ftsCsaoHXg:hR]R?bT-%pQANp7;-BQqqt;GD!TscSSr-PRQnHD(?\'Q@6?8\'Q/b!Sg\WS[FqtlPGX(Wi@/i,7-B;O=5qd7j5H\OXmYA/kF#I4q[<cc^pj~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000422 00000 n 
+0000006423 00000 n 
+0000006530 00000 n 
+0000006637 00000 n 
+0000006749 00000 n 
+0000006854 00000 n 
+0000007056 00000 n 
+0000008339 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8391
+%%EOF
