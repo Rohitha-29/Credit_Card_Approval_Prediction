@@ -1,0 +1,589 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 8909
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 160.672 0 Td (Project Development Phase) Tj T* -160.672 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 762.2047 cm
+q
+BT 1 0 0 1 0 3 Tm 189.5905 0 Td 16 TL /F2 13 Tf 0 0 0 rg (Coding & Solution) Tj T* -189.5905 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 752.2047 cm
+Q
+q
+1 0 0 1 63.77953 664.2047 cm
+q
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 73.5 Tm (Date) Tj T* ET
+BT 1 0 0 1 133.5591 73.5 Tm (11 July 2026) Tj T* ET
+BT 1 0 0 1 6 51.5 Tm (Team ID) Tj T* ET
+BT 1 0 0 1 133.5591 51.5 Tm (SWTID-2026-9508) Tj T* ET
+BT 1 0 0 1 6 29.5 Tm (Project Name) Tj T* ET
+BT 1 0 0 1 133.5591 29.5 Tm (Credit Card Approval Prediction System) Tj T* ET
+BT 1 0 0 1 6 7.5 Tm (Maximum Marks) Tj T* ET
+BT 1 0 0 1 133.5591 7.5 Tm (4 Marks) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 88 m 467.7165 88 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 88 l S
+n 467.7165 0 m 467.7165 88 l S
+n 0 66 m 467.7165 66 l S
+n 0 44 m 467.7165 44 l S
+n 0 22 m 467.7165 22 l S
+n 127.5591 0 m 127.5591 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 652.2047 cm
+Q
+q
+1 0 0 1 51.35433 625.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Overview:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 580.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (This document summarizes the actual working solution built for the Credit Card Approval Prediction System: a) Tj T* (Jupyter notebook that trains and compares four ML models on a real credit approval dataset, and a Flask web) Tj T* (application that serves the best model for live predictions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 553.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (1. Dataset Used:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 508.2047 cm
+q
+BT 1 0 0 1 0 29.5 Tm 13 TL /F1 9.5 Tf 0 0 0 rg (The ) Tj /F2 9.5 Tf (UCI Credit Approval dataset) Tj /F1 9.5 Tf ( \(690 real, anonymized credit card application records\) was used for training and) Tj T* -0.042648 Tw (evaluation. It contains a mix of demographic and financial features \(Age, Income, Debt, YearsEmployed, CreditScore,) Tj T* 0 Tw -0.096034 Tw (etc.\) and a binary target \(Approved / Rejected\), closely matching the real-world structure of a credit approval decision.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 51.35433 481.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (2. Data Preprocessing \(implemented in EDA_and_Model_Training.ipynb\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 449.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 449.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Missing values \('?' in the raw data\) converted to NaN, then imputed - mean for numeric columns, mode for) Tj T* (categorical columns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 430.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 430.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Duplicate records removed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 411.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 411.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Categorical features label-encoded; low-value features \(DriversLicense, ZipCode\) dropped.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 392.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Numeric features scaled using StandardScaler.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 373.2047 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 373.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Data split into training \(80%\) and testing \(20%\) sets with stratification to preserve class balance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 346.2047 cm
+q
+BT 1 0 0 1 0 3 Tm 15 TL /F2 12 Tf 0 0 0 rg (3. Model Training & Comparison:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.77953 237.7047 cm
+q
+.043137 .239216 .396078 rg
+n 0 102.5 467.7165 -20.5 re f*
+1 1 1 rg
+n 0 82 467.7165 -20.5 re f*
+.909804 .945098 .972549 rg
+n 0 61.5 467.7165 -20.5 re f*
+1 1 1 rg
+n 0 41 467.7165 -20.5 re f*
+.909804 .945098 .972549 rg
+n 0 20.5 467.7165 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 132.5591 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Accuracy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Precision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.6378 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Recall) Tj T* ET
+Q
+Q
+q
+1 0 0 1 387.6772 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (F1-Score) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 66.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Logistic Regression) Tj T* ET
+Q
+Q
+q
+1 0 0 1 132.5591 66.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.891) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 66.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.859) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.6378 66.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 387.6772 66.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.880) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Decision Tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 132.5591 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.877) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.833) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.6378 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 387.6772 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.866) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 25.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Random Forest) Tj T* ET
+Q
+Q
+q
+1 0 0 1 132.5591 25.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.906) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 25.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.929) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.6378 25.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.852) Tj T* ET
+Q
+Q
+q
+1 0 0 1 387.6772 25.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.889) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (XGBoost \(Selected\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 132.5591 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.906) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.900) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.6378 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.885) Tj T* ET
+Q
+Q
+q
+1 0 0 1 387.6772 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (0.893) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 102.5 m 467.7165 102.5 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 102.5 l S
+n 467.7165 0 m 467.7165 102.5 l S
+n 0 82 m 467.7165 82 l S
+n 0 61.5 m 467.7165 61.5 l S
+n 0 41 m 467.7165 41 l S
+n 0 20.5 m 467.7165 20.5 l S
+n 127.5591 0 m 127.5591 102.5 l S
+n 212.5984 0 m 212.5984 102.5 l S
+n 297.6378 0 m 297.6378 102.5 l S
+n 382.6772 0 m 382.6772 102.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 229.7047 cm
+Q
+q
+1 0 0 1 51.35433 190.7047 cm
+q
+BT 1 0 0 1 0 29.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (XGBoost was selected) Tj /F1 9.5 Tf ( as the deployed model - it achieved the highest F1-Score \(0.893\), balancing Precision and) Tj T* (Recall better than the alternatives. F1-Score was prioritized over raw Accuracy because both false approvals \(risk to) Tj T* (the bank\) and false rejections \(lost creditworthy customers\) carry real business cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.7047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (4. Model Persistence:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 118.7047 cm
+q
+BT 1 0 0 1 0 29.5 Tm 13 TL /F1 9.5 Tf 0 0 0 rg (The trained XGBoost model, the fitted label encoders, the fitted StandardScaler, and the ordered list of feature) Tj T* -0.124121 Tw (columns are all saved using ) Tj /F2 9.5 Tf (joblib) Tj /F1 9.5 Tf ( \(model.pkl, encoders.pkl, scaler.pkl, feature_columns.pkl\), so the Flask application) Tj T* 0 Tw (can load them once at startup without retraining.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 91.70472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (5. Flask Application \(Flask/app.py\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 59.70472 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -8 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 57.35433 59.70472 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (GET /) Tj /F1 9.5 Tf ( - renders the application form \(index.html\) with dropdowns for categorical fields and number inputs for) Tj T* (financial fields.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+195.3386 733.7382 93.865 13.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 197.3386 736.7382 Tm
+(10 July 2026) Tj
+T*
+ET
+1 1 1 rg
+n
+195.3386 711.7382 119.192 13.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 197.3386 714.7382 Tm
+(SWTID\0552026\0556119) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 947
+>>
+stream
+Gb!;a;/b/R%"@A@=M-Ii&<[$i9L;oAX\Y55XuoZu.WcpG>aONgh5+'MrHoDJ8OqNK&!J?9S76;a^<`Dl+$BDqp).EA?PY?.oYD&GOaoZ>a0<(*Di;oLj6o)X^,qdB7jFBrVJb=OV\Ia./'P=cEbuf]"G:b$VQe.W$2s+q#E))SS/UR[6^6gIPjMlt%t^320mW\Z5oX,7?k!FlW8Lp1^ST'[M(t'uKed6-g`.0H'2*Vp1b-ik"BDT[Xu44\#at?/')<25Xak3F\JDt''/??dM(F+1"IUkg_@oCB8155!f2WmcKQ2Dr#P3b'U`-7hV'u3`bIk]uanigD(aS7`a-n<S1=]4*28V#L2qE4N'N.c]i=C;]4K;8C3YE=an9q_Y[E#-/'-7fJ'bgt2DM.8EUHKWgs(tR1p+8E-H.C?jLE.C^A(].fM9'3*XD)2VPtDGLTu[HhBdc:sWC`CTSh!MU"HgK2b1+`N"Yh@JOC!4380[1c"iTgbq-0D?,g'?=kg05/N<^T\UZqK"*fs>ulWg6"V&*N;o7TOXE^ir%"cJAIN+eR_<YR!DR-#RtV9-+r+EVWii^?@:YUr`:Y\/e:MjYJQTe.ZRRfsm8?e$4Ij@sITB.huFX@Nr;dKSPek='rjb.=aqgsgWreiX:dT0BDfE]/8;N4q54']TJERo9/Xm'p(/U!p-19Xepp*N4u,ogZl7Ic!#`W;@/"XPM/L8Zq$ab7H^WiRSAT50_"7]qk>?)V02oD:^&bppsW[CP[->GOK'KPrt%m]-XtgQ=0Jc;d5&ehmRa5XB+.?6[)u-hKrq*?`_n;Vd)Hq"^'KG)WompM,`m0G<ib4'(7a&r2:,)+JbFKDnKMYYR+<Z-G"&0V_7,89P0VD2:A]`/+VtWmRCjR/"KcAbc@Mr%e>*0?G<1UReAiRhiuW)ZU:>9,Uj"G]:jIP8^R8B5Q,eQ~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000422 00000 n 
+0000009383 00000 n 
+0000009490 00000 n 
+0000009597 00000 n 
+0000009709 00000 n 
+0000009814 00000 n 
+0000010016 00000 n 
+0000011055 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+11107
+%%EOF

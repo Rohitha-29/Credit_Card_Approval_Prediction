@@ -1,0 +1,1073 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10869
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 533.5906 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 283.9791 0 Td (Project Development Phase) Tj T* -283.9791 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 515.5906 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 212.1216 0 Td (No. of Functional Features Included in the Solution) Tj T* -212.1216 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 505.5906 cm
+Q
+q
+1 0 0 1 187.0866 417.5906 cm
+q
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 73.5 Tm (Date) Tj T* ET
+BT 1 0 0 1 133.5591 73.5 Tm (11 July 2026) Tj T* ET
+BT 1 0 0 1 6 51.5 Tm (Team ID) Tj T* ET
+BT 1 0 0 1 133.5591 51.5 Tm (SWTID-2026-9508) Tj T* ET
+BT 1 0 0 1 6 29.5 Tm (Project Name) Tj T* ET
+BT 1 0 0 1 133.5591 29.5 Tm (Credit Card Approval Prediction System) Tj T* ET
+BT 1 0 0 1 6 7.5 Tm (Maximum Marks) Tj T* ET
+BT 1 0 0 1 133.5591 7.5 Tm (4 Marks) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 88 m 467.7165 88 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 88 l S
+n 467.7165 0 m 467.7165 88 l S
+n 0 66 m 467.7165 66 l S
+n 0 44 m 467.7165 44 l S
+n 0 22 m 467.7165 22 l S
+n 127.5591 0 m 127.5591 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 405.5906 cm
+Q
+q
+1 0 0 1 51.35433 392.5906 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (The table below lists every functional feature implemented in the working solution, mapped to the file\(s\) where it is implemented.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 378.5906 cm
+Q
+q
+1 0 0 1 185.6693 48.09055 cm
+q
+.043137 .239216 .396078 rg
+n 0 330.5 470.5512 -20.5 re f*
+1 1 1 rg
+n 0 310 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 279 470.5512 -31 re f*
+1 1 1 rg
+n 0 248 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 217 470.5512 -31 re f*
+1 1 1 rg
+n 0 186 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 155 470.5512 -31 re f*
+1 1 1 rg
+n 0 124 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 93 470.5512 -31 re f*
+1 1 1 rg
+n 0 62 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 31 470.5512 -31 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 315 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 315 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Functional Feature) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 315 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 315 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Implemented In) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 294.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 284 cm
+q
+BT 1 0 0 1 0 12.7 Tm 10.5 TL /F1 8.3 Tf 0 0 0 rg (Historical dataset loading) Tj T* (& cleaning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 284 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Missing value imputation, duplicate removal,) Tj T* (dtype correction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 284 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Notebooks/EDA_and_Model_Traini) Tj T* (ng.ipynb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 263.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 263.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Exploratory Data Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 253 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Class balance, distributions, correlation heatmap,) Tj T* (outlier detection \(8 charts generated\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 253 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Notebooks/EDA_and_Model_Traini) Tj T* (ng.ipynb, Assets/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 232.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 222 cm
+q
+BT 1 0 0 1 0 12.7 Tm 10.5 TL /F1 8.3 Tf 0 0 0 rg (Feature encoding &) Tj T* (scaling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Label encoding of categorical fields,) Tj T* (StandardScaler on numeric fields) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Notebooks/EDA_and_Model_Traini) Tj T* (ng.ipynb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 201.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 201.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Multi-model training) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 191 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Logistic Regression, Decision Tree, Random) Tj T* (Forest, XGBoost all trained and compared) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 191 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Notebooks/EDA_and_Model_Traini) Tj T* (ng.ipynb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 170.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 170.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Model evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 160 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Accuracy, Precision, Recall, F1-Score, Confusion) Tj T* (Matrix, Classification Report, ROC Curve) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 160 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Notebooks/EDA_and_Model_Traini) Tj T* (ng.ipynb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 139.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 139.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Best-model selection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Automatic comparison table; XGBoost selected) Tj T* (by highest F1-Score) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Notebooks/EDA_and_Model_Traini) Tj T* (ng.ipynb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Model persistence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Trained model, encoders, scaler, and feature) Tj T* (order saved via joblib) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Model/*.pkl) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Web-based application) Tj T* (form) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Responsive HTML/Bootstrap-style form for) Tj T* (entering applicant details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Flask/templates/index.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Live prediction endpoint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (POST /predict route runs the saved model and) Tj T* (returns Approved/Rejected) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Flask/app.py) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 15.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 15.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Confidence score display) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Shows the model's predicted probability of) Tj T* (approval alongside the result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Flask/app.py,) Tj T* (Flask/templates/result.html) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 330.5 m 470.5512 330.5 l S
+n 0 0 m 0 330.5 l S
+n 470.5512 0 m 470.5512 330.5 l S
+n 0 0 m 470.5512 0 l S
+n 0 310 m 470.5512 310 l S
+n 0 279 m 470.5512 279 l S
+n 0 248 m 470.5512 248 l S
+n 0 217 m 470.5512 217 l S
+n 0 186 m 470.5512 186 l S
+n 0 155 m 470.5512 155 l S
+n 0 124 m 470.5512 124 l S
+n 0 93 m 470.5512 93 l S
+n 0 62 m 470.5512 62 l S
+n 0 31 m 470.5512 31 l S
+n 25.51181 0 m 25.51181 330.5 l S
+n 133.2283 0 m 133.2283 330.5 l S
+n 325.9843 0 m 325.9843 330.5 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+318.6457 487.1241 93.865 13.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 320.6457 490.1241 Tm
+(10 July 2026) Tj
+T*
+ET
+1 1 1 rg
+n
+318.6457 465.1241 119.192 13.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 320.6457 468.1241 Tm
+(SWTID\0552026\0556119) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 327.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 349.0756 Tm
+(Imputing missing values\054 removing duplicates\054 and) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 338.5756 Tm
+(correcting data types) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 296.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 318.0756 Tm
+(Examines class balance\054 feature distributions\054) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 307.5756 Tm
+(correlation heatmap\054 and outliers \0508 charts produced\051) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 265.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 287.0756 Tm
+(Categorical fields label\055encoded and numeric fields) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 276.5756 Tm
+(scaled with StandardScaler) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 234.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 256.0756 Tm
+(Trains and compares Logistic Regression\054 Decision) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 245.5756 Tm
+(Tree\054 Random Forest\054 and XGBoost) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 203.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 225.0756 Tm
+(Evaluated using Accuracy\054 Precision\054 Recall\054 F1\055Score\054) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 214.5756 Tm
+(Confusion Matrix\054 Classification Report\054 and ROC) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 204.0756 Tm
+(Curve) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 172.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 194.0756 Tm
+(An automated comparison table picks XGBoost as the) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 183.5756 Tm
+(best model based on F1\055Score) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 141.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 163.0756 Tm
+(The trained model\054 encoders\054 scaler\054 and feature) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 152.5756 Tm
+(ordering are saved with joblib) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 110.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 132.0756 Tm
+(A responsive HTML\057Bootstrap form used to enter) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 121.5756 Tm
+(applicant details) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 79.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 101.0756 Tm
+(The POST \057predict route executes the saved model) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 90.5756 Tm
+(and returns an Approved\057Rejected result) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 48.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 70.0756 Tm
+(Displays the model\047s approval probability next to the) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 59.5756 Tm
+(prediction result) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 11 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 4591
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 185.6693 405.0906 cm
+q
+.043137 .239216 .396078 rg
+n 0 144.5 470.5512 -20.5 re f*
+1 1 1 rg
+n 0 124 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 93 470.5512 -31 re f*
+1 1 1 rg
+n 0 62 470.5512 -31 re f*
+.909804 .945098 .972549 rg
+n 0 31 470.5512 -31 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 129 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 129 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Functional Feature) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 129 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 129 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8.5 Tf 10.5 TL (Implemented In) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Input validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Required-field checks and invalid-category) Tj T* (handling with user-facing error messages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Flask/app.py,) Tj T* (Flask/templates/index.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Custom error handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Dedicated 404 page instead of Flask's default) Tj T* (error screen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Flask/templates/404.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Logging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Model load status, predictions, and errors logged) Tj T* (via Python's logging module) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (Flask/app.py) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 15.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.3 Tf 10.5 TL (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 30.51181 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Consistent visual) Tj T* (branding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 138.2283 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Shared navigation/footer via Jinja2 template) Tj T* (inheritance, banking-themed design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.9843 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 8.3 Tf 10.5 TL (Flask/templates/base.html,) Tj T* (Flask/static/style.css) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 144.5 m 470.5512 144.5 l S
+n 0 124 m 0 144.5 l S
+n 0 0 m 0 124 l S
+n 470.5512 124 m 470.5512 144.5 l S
+n 470.5512 0 m 470.5512 124 l S
+n 0 0 m 470.5512 0 l S
+n 0 124 m 470.5512 124 l S
+n 25.51181 124 m 25.51181 144.5 l S
+n 133.2283 124 m 133.2283 144.5 l S
+n 325.9843 124 m 325.9843 144.5 l S
+n 0 93 m 470.5512 93 l S
+n 0 62 m 470.5512 62 l S
+n 0 31 m 470.5512 31 l S
+n 25.51181 0 m 25.51181 124 l S
+n 133.2283 0 m 133.2283 124 l S
+n 325.9843 0 m 325.9843 124 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 393.0906 cm
+Q
+q
+1 0 0 1 51.35433 380.0906 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Total functional features implemented: 14) Tj /F1 9.5 Tf (, spanning data preprocessing, model training and evaluation, and the full end-to-end web application.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+318.9 498.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 520.0756 Tm
+(Checks required fields and invalid categories\054 showing) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 509.5756 Tm
+(clear error messages to the user) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 467.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 489.0756 Tm
+(A custom 404 page replaces Flask\047s default error) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 478.5756 Tm
+(screen) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 436.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 458.0756 Tm
+(Logs model loading status\054 predictions\054 and errors) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 447.5756 Tm
+(using Python\047s logging module) Tj
+T*
+ET
+1 1 1 rg
+n
+318.9 405.0756 192.8 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 321.9 427.0756 Tm
+(A shared navigation bar and footer via Jinja2 template) Tj
+T*
+ET
+BT
+1 0 0 1 321.9 416.5756 Tm
+(inheritance\054 with a banking\055themed design) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000411 00000 n 
+0000011333 00000 n 
+0000011440 00000 n 
+0000011547 00000 n 
+0000011659 00000 n 
+0000011904 00000 n 
+0000016548 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+16656
+%%EOF
